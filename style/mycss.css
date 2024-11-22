@@ -1,0 +1,19 @@
+html{
+    background-color: #f7cffa;
+}
+
+h1 {
+    font-family: "Lucida Handwriting";
+    color: #dc48e7;
+}
+
+h2 {
+    font-family: "Lucida Handwriting";
+    color: #dc48e7;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #000;
+}

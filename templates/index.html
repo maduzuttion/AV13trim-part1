@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mostrar img</title>
+    <link rel="stylesheet" href="../style/mycss.css">
+</head>
+<body>
+
+<h1>Escolha uma imagem</h1>
+<hr>
+<form action="/" method="post" enctype="multipart/form-data">
+    <input type="file" name="arquivo" accept="image/*">
+    <br>
+    <br>
+    <button type="submit">Enviar</button>
+</form>
+
+<br>
+<hr>
+
+{% if image_url%}
+    <h2>Imagem enviada:</h2>
+    <img src="{{ image_url }}" alt="Imagem enviada">
+{% end if %}
+
+</body>
+</html>
