@@ -1,0 +1,6 @@
+Cachorrinho;5.64;C:\Users\Usuário\AV13trim-part1\images\cachorrinho.jpg
+Gatinho;4.98;C:\Users\Usuário\AV13trim-part1\images\gatinho.jpg
+Lion;178.93;C:\Users\Usuário\AV13trim-part1\images\lion.jpg
+Papagaio;7.36;C:\Users\Usuário\AV13trim-part1\images\papagaio.jpg
+Capibara;51.12;C:\Users\Usuário\AV13trim-part1\images\capibara.jpg
+Elefante;4000.75;C:\Users\Usuário\AV13trim-part1\images\elefante.jpg
